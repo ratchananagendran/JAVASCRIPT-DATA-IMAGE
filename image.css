@@ -1,0 +1,70 @@
+.div, .im {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.container {
+width: 300px;
+border: 2px solid black;
+border-radius: 7px;
+height: 320px;
+padding: 20px;
+margin: 50px;
+display: inline-block;
+}
+.id{
+font-size: 18px;
+font-weight: 600;
+color: blueviolet;
+font-family: sans-serif;
+line-height: 1.5;
+word-spacing: 1px;
+}
+.title {
+font-size: 18px;
+font-family: cursive;
+font-weight: 600;
+color: darkblue;
+word-spacing: 2px;
+height: 60px;
+}
+.image {
+width: 160px;
+margin: 20px auto;
+}
+.url {
+font-size: 19px;
+font-weight: 500;
+margin: 30px 0px;
+}
+button{
+color: black;
+border: 1px solid black;
+border-radius: 12px;
+padding: 12px;
+font-size: 18px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+a {
+text-decoration: none; 
+color: brown;
+}
+a:visited {
+color:blue;
+}
+.style{
+    display: none;
+}
+.center,.center1{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+#para {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
